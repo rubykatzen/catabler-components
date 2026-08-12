@@ -1,4 +1,10 @@
 # Catabler::Components
+
+> [!WARNING]
+> This project is archived and no longer maintained. For new or migrated Ruby
+> applications, use [RubyUI](https://www.rubyui.com/), a maintained component
+> library for Ruby applications.
+
 tabler.io ViewComponents bundle
 
 
